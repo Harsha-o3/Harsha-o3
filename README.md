@@ -1,18 +1,24 @@
-# 👋 Hi there, I'm **Harsha Vardhan**
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=120&lines=HARSHA+VARDHAN;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Ambitious+%7C+Goal-Oriented+%7C+Innovation+Driven;Building+Tomorrow's+Web+Solutions+Today" alt="Typing SVG" />
+  <h1>👋 Hey there, <strong>Harsha Vardhan</strong></h1>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" alt="Goal-focused Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driven;Building+Tomorrow's+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Professional Developer"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="2" alt="Animated Line"/>
+</div>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Developer GIF"/>
 
 🎓 **Computer Science & Engineering Student** at QIS College of Engineering and Technology (Final Year)  
 💼 **Aspiring Full Stack Developer** with expertise in modern web technologies  
@@ -88,10 +94,6 @@
 ---
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Stats Animation"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsha-o3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
