@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm **Harsha Vardhan**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Tomorrow's+Web+Solutions+Today;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=120&lines=HARSHA+VARDHAN;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Ambitious+%7C+Goal-Oriented+%7C+Innovation+Driven;Building+Tomorrow's+Web+Solutions+Today" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" alt="Goal-focused Developer"/>
 </div>
 
 ---
