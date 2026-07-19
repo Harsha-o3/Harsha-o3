@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| 🔧 Master My Craft | 🧭 Lead With Purpose | 🧩 Embrace Challenges | 📢 Inspire Others |
+| 🔧 Master My Craft | 🧭 Lead With Purpose | 🧩 Embrace Challenges | 📢 Inspire Others | 
 |:---:|:---:|:---:|:---:|
 | Continuous learning across the stack | Growing into technical leadership | Solving hard, meaningful problems | Sharing knowledge with the community |
 
