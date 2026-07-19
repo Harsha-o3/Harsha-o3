@@ -1,158 +1,135 @@
 <div align="center">
-  <h1>👋 Hey there, <strong>Harsha Vardhan</strong></h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There,%20I'm%20Harsha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Applications;Exploring+AI+%2F+ML+Integrations;Open+Source+Contributor;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/Harsha-o3">
+  <img src="https://komarev.com/ghpvc/?username=Harsha-o3&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
+</a>
+<img src="https://img.shields.io/github/followers/Harsha-o3?label=Followers&style=for-the-badge&color=8B5CF6" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Open to Work"/>
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Innovation+Driven;Building+Tomorrow's+Solutions" alt="Typing SVG" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Professional Developer"/>
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="2" alt="line"/>
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="2" alt="Animated Line"/>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="290" alt="Developer GIF"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Developer GIF"/>
+- 🎓 Final-year **Computer Science & Engineering** student at QIS College of Engineering and Technology
+- 💼 Aspiring **Full Stack Developer** with hands-on experience across the modern web stack
+- 🤖 Deeply curious about **AI/ML**, and how it can make web products smarter
+- 🌱 Actively contributing to **open source** and sharpening system design skills
+- 🎯 Motivated by hard problems and the satisfaction of shipping clean, working solutions
+- 🤝 Currently looking for **internships**, **freelance work**, and **collaborative projects**
 
-🎓 **Computer Science & Engineering Student** at QIS College of Engineering and Technology (Final Year)  
-💼 **Aspiring Full Stack Developer** with expertise in modern web technologies  
-🤖 **AI/ML Enthusiast** exploring intelligent web solutions  
-🌐 **Open Source Contributor** passionate about collaborative development  
-🎯 **Problem Solver** dedicated to creating impactful digital solutions  
-
-### 💡 Professional Philosophy
 > *"Success is no accident. It's hard work, perseverance, learning, and love for what you're doing."*
 
----
+<br clear="right"/>
 
-## 🎯 Professional Goals & Vision
+## 🎯 What Drives Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/><br/><b>Master My Craft</b><br/>Continuous Learning</td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/><br/><b>Lead with Purpose</b><br/>Technical Leadership</td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"/><br/><b>Embrace Challenges</b><br/>Problem Solving</td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3e-b75d-c58b1608d3c0.gif" width="50"/><br/><b>Inspire Others</b><br/>Knowledge Sharing</td>
-    </tr>
-  </table>
+
+| 🔧 Master My Craft | 🧭 Lead With Purpose | 🧩 Embrace Challenges | 📢 Inspire Others |
+|:---:|:---:|:---:|:---:|
+| Continuous learning across the stack | Growing into technical leadership | Solving hard, meaningful problems | Sharing knowledge with the community |
+
 </div>
 
-### 🌟 Core Objectives
-- 🔧 **Full-Stack Mastery**: Building end-to-end applications with modern frameworks
-- ☁️ **Cloud Architecture**: Developing scalable, cloud-native solutions
-- 🤖 **AI Integration**: Merging artificial intelligence with web development
-- 🌍 **Open Source Impact**: Contributing to the global developer community
-- 📈 **Continuous Growth**: Staying ahead of emerging technologies
-
----
-
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Tech Animation"/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind,vite&theme=dark"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"/>
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify&theme=dark"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,npm,vscode,postman&theme=dark"/>
+
+**Data Science & AI**
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 </div>
 
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" alt="Programming Languages"/>
-</div>
-
-### 🎨 Frontend Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind,vite&theme=dark" alt="Frontend"/>
-</div>
-
-### ⚙️ Backend & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="Backend"/>
-</div>
-
-### 🗄️ Databases & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify&theme=dark" alt="Databases & Cloud"/>
-</div>
-
-### 🔧 Development Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,npm&theme=dark" alt="Tools"/>
-</div>
-
-### 📊 Data Science & AI
-<div align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</div>
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsha-o3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-o3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harsha-o3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-o3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha-o3&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-o3&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Focus Animation"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsha-o3&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🎓 Learning</b><br/>Advanced React Patterns<br/>Cloud Architecture<br/>AI/ML Integration</td>
-      <td align="center"><b>🚀 Building</b><br/>Full-Stack Applications<br/>Open Source Projects<br/>API Development</td>
-      <td align="center"><b>🔍 Exploring</b><br/>Microservices<br/>DevOps Practices<br/>Modern UI/UX Design</td>
-      <td align="center"><b>🤝 Seeking</b><br/>Internship Opportunities<br/>Collaboration Projects<br/>Mentorship</td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-o3&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 🤝 Let's Connect & Collaborate
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e58af2.gif" width="200" alt="Connect Animation"/>
+  <img src="https://raw.githubusercontent.com/Harsha-o3/Harsha-o3/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
+> To enable the animated snake graph above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates and commits this SVG on a schedule.
+
+## 🎯 Current Focus
+
 <div align="center">
-  <p>💼 <strong>Open to:</strong> Internships • Freelance Projects • Open Source Contributions • Technical Discussions</p>
-  <p>🌟 <strong>Always eager to:</strong> Learn • Share Knowledge • Build Amazing Things Together</p>
+
+| 🎓 Learning | 🚀 Building | 🔍 Exploring | 🤝 Seeking |
+|:---|:---|:---|:---|
+| Advanced React patterns | Full-stack applications | Microservices architecture | Internship opportunities |
+| Cloud architecture | Open source projects | DevOps practices | Collaboration on projects |
+| AI/ML integration | REST & GraphQL APIs | Modern UI/UX design | Mentorship |
+
 </div>
 
----
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" alt="Thank you"/>
-  <h3>Thanks for Visiting! ⭐</h3>
-  <p><em>Let's build the future of web development together!</em></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Harsha-o3&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views"/>
+
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+💼 **Open to:** Internships • Freelance Projects • Open Source Contributions • Technical Discussions
+<br/>
+🌟 **Always eager to:** Learn • Share Knowledge • Build Amazing Things Together
+
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 </div>
